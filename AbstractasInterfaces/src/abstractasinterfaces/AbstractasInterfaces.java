@@ -19,7 +19,10 @@ public class AbstractasInterfaces {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-//        Producto producto=new Producto(500);
+ //         Producto productoabs =new Producto(500);
+        // ejemplo ter
+        // ejemplo gof
+  
           Producto  libro= new Libro(500);
           Producto monitor= new Monitor(1500);
 
@@ -52,3 +55,5 @@ public class AbstractasInterfaces {
     }
     
 }
+
+    
