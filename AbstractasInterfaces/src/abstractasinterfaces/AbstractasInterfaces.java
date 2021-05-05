@@ -24,11 +24,11 @@ public class AbstractasInterfaces {
         // ejemplo gof
         
         //ejemplo de cambio al versionador
-        
+         int paso = 0;
+         
   
           Producto  libro= new Libro(500);
           Producto monitor= new Monitor(1500);
-
           
           System.out.println("El material es de tipo: " + libro.getmaterial() + " y su precio es de: "+ libro.getprecio() + "\n");
           
