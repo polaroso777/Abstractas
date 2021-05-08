@@ -24,7 +24,11 @@ public class AbstractasInterfaces {
         // ejemplo gof
         
         //ejemplo de cambio al versionador
-         int paso = 0;
+         // codigo de prueba
+         int paso2 = 0;
+         
+         
+         
          
   
           Producto  libro= new Libro(500);
